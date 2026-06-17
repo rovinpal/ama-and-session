@@ -85,12 +85,6 @@ Think of an API as a waiter between a customer (client) and a kitchen (server).
 
 ---
 
-## Kamparapu Lakshman
-
-*Question not provided.*
-
----
-
 ## M Harivardhan Reddy: How to add a class using DOM?
 
 Use the `classList.add()` method.
